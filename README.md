@@ -35,6 +35,7 @@ Benefits:
 * Frontend: We developed the website using Flutter, ensuring a seamless and responsive user interface. For authentication, we integrated Firebase, providing secure and efficient user management.
 
 * Backend: We used Django as our framework for server-side logic, data processing, and API endpoints. The backend is hosted on Heroku, ensuring scalability and reliable uptime.
+  (AI Model Algorithm: https://github.com/AATechCulture/WeSmart/commit/dcfc221219966aa98f1029bc0313c40d2359cd2c)
 
 * AI Model Integration: For AI capabilities, we integrated the ChatGPT API to provide intelligent, context-aware interactions and recommendations.
 
