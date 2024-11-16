@@ -64,7 +64,7 @@ Website Deployed Link: https://superb-alfajores-2729f4.netlify.app
 
 ## APIS USED
 
-Internal APIs:
+### Internal APIs:
 
 1.) Student Management APIs:
 
@@ -80,7 +80,7 @@ Internal APIs:
 3.) Recommendation Retrieval:
 * Fetch stored recommendations for a student (GET /recommendations/<student_id>).
 
-External APIs:
+### External APIs:
 
 1.) The backend integrates the ChatGPT API to power intelligent, context-aware recommendations
 
