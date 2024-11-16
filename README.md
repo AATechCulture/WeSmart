@@ -28,7 +28,7 @@ Target Audience:
 Benefits:
 * For Students: Engaging and culturally relevant educational experiences tailored to their needs.
 * For Teachers/Mentors: Real-time tracking and actionable insights for personalized intervention.
-* The long-term goal is to reduce the pipeline to incarceration by improving literacy and addressing socio-emotional needs.
+* The long-term goal is to disrupt the school-to-prison pipeline by enhancing literacy and addressing socio-emotional needs, which has far-reaching impacts across all sectors. For example, improving education reduces crime rates, leading to safer communities; it creates a more skilled and employable workforce, boosting economic growth; and it lowers incarceration rates, reducing the burden on the justice system. Furthermore, addressing socio-emotional challenges fosters healthier individuals who can contribute positively to society, from better family dynamics to increased civic engagement.
 ​
 ## Tech Overview 
 * Website Deployed Link: https://superb-alfajores-2729f4.netlify.app 
