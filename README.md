@@ -1,5 +1,7 @@
 # WeSmart
 
+<img src="https://github.com/user-attachments/assets/f727cff1-37be-4ee7-9f85-0f7ded146229" alt="Image Description" width="400" height="700" />
+<img src="https://github.com/user-attachments/assets/f7d8d039-d2d5-435f-8768-e4366c4526a6" alt="Image Description" width="400" height="700" />
 
 ​
 ## Challenge Statement(s) Addressed 
