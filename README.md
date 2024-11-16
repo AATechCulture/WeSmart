@@ -33,26 +33,26 @@ Benefits:
 ## 💻 Tech Overview & Tech Stack
 Website Deployed Link: https://superb-alfajores-2729f4.netlify.app 
 
-### Frontend
+#### Frontend
    
    * We developed the website using Flutter, ensuring a seamless and responsive user interface
    
    ![Dart](https://img.shields.io/badge/dart-%23039BE5.svg?style=for-the-badge&logo=dart)     ![Flutter](https://img.shields.io/badge/flutter-%23039BE5.svg?style=for-the-badge&logo=flutter) 
 
-   ### Backend
+   #### Backend
    
    * Built with Flask, the backend handles server-side logic, processes data, and serves RESTful APIs.
      
   ![Flask](https://img.shields.io/badge/flask-%23039BE5.svg?style=for-the-badge&logo=flask)      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
- ### User Authentication and Database
+ #### User Authentication and Database
  
   * For authentication and Data Persistence, we integrated Firebase Authentication and FireStore Database, providing secure and efficient user management. 
     
   ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=for-the-badge&logo=firebase)    ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-  ### CI/CD
+  #### CI/CD
  
   * The Frontend was hosted on Netlify . 
     
@@ -64,7 +64,7 @@ Website Deployed Link: https://superb-alfajores-2729f4.netlify.app
 
 ## APIS USED
 
-### Internal APIs:
+#### Internal APIs:
 
 1.) Student Management APIs:
 
@@ -80,7 +80,7 @@ Website Deployed Link: https://superb-alfajores-2729f4.netlify.app
 3.) Recommendation Retrieval:
 * Fetch stored recommendations for a student (GET /recommendations/<student_id>).
 
-### External APIs:
+#### External APIs:
 
 1.) The backend integrates the ChatGPT API to power intelligent, context-aware recommendations
 
