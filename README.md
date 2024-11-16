@@ -30,12 +30,37 @@ Benefits:
 * For Teachers/Mentors: Real-time tracking and actionable insights for personalized intervention.
 * The long-term goal is to disrupt the school-to-prison pipeline by enhancing literacy and addressing socio-emotional needs, which has far-reaching impacts across all sectors. For example, improving education reduces crime rates, leading to safer communities; it creates a more skilled and employable workforce, boosting economic growth; and it lowers incarceration rates, reducing the burden on the justice system. Furthermore, addressing socio-emotional challenges fosters healthier individuals who can contribute positively to society, from better family dynamics to increased civic engagement.
 ​
-## Tech Overview 
-* Website Deployed Link: https://superb-alfajores-2729f4.netlify.app 
-* Frontend: We developed the website using Flutter, ensuring a seamless and responsive user interface. For authentication, we integrated Firebase, providing secure and efficient user management.
-  
-* Backend: Built with Flask, the backend handles server-side logic, processes data, and serves RESTful APIs. It is hosted on Heroku, ensuring scalability and seamless integration with Firebase Firestore for data storage.
-* AI Model Integration: The ChatGPT API analyzes teacher reviews to provide personalized, context-aware recommendations for students, leveraging prompt engineering for accurate and relevant outputs.
+## 💻 Tech Overview & Tech Stack
+Website Deployed Link: https://superb-alfajores-2729f4.netlify.app 
+
+### Frontend
+   
+   * We developed the website using Flutter, ensuring a seamless and responsive user interface
+   
+   ![Dart](https://img.shields.io/badge/dart-%23039BE5.svg?style=for-the-badge&logo=dart)     ![Flutter](https://img.shields.io/badge/flutter-%23039BE5.svg?style=for-the-badge&logo=flutter) 
+
+   ### Backend
+   
+   * Built with Flask, the backend handles server-side logic, processes data, and serves RESTful APIs.
+     
+  ![Flask](https://img.shields.io/badge/flask-%23039BE5.svg?style=for-the-badge&logo=flask)      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+ ### User Authentication and Database
+ 
+  * For authentication and Data Persistence, we integrated Firebase Authentication and FireStore Database, providing secure and efficient user management. 
+    
+  ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=for-the-badge&logo=firebase)    ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+  ### CI/CD
+ 
+  * The Frontend was hosted on Netlify . 
+    
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+ 
+ * The Backend was hosted on Heroku ensuring scalability and seamless integration 
+ 
+  ![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=for-the-badge&logo=heroku&logoColor=#00C7B7)
 
 ## APIS USED
 
@@ -59,8 +84,6 @@ External APIs:
 
 1.) The backend integrates the ChatGPT API to power intelligent, context-aware recommendations
 
-## 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=for-the-badge&logo=heroku&logoColor=#00C7B7)![Flutter](https://img.shields.io/badge/flutter-%23039BE5.svg?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/dart-%23039BE5.svg?style=for-the-badge&logo=dart) ![Flask](https://img.shields.io/badge/flask-%23039BE5.svg?style=for-the-badge&logo=flask)
   
 ## User Stories
 * Student
@@ -97,7 +120,7 @@ External APIs:
 * Navigate to the Login screen and use our test teacher credentials: Email: jons@gmail.com, Password: Gabriella
 * Click Login. After logging in, you can:
 * View all students in your class.
-*Add feedback for students.
+* Add feedback for students.
 * Generate recommendations based on feedback using our AI model.
   
 #### Connecting Students to a Class
