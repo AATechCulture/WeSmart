@@ -36,6 +36,29 @@ Benefits:
   
 * Backend: Built with Flask, the backend handles server-side logic, processes data, and serves RESTful APIs. It is hosted on Heroku, ensuring scalability and seamless integration with Firebase Firestore for data storage.
 * AI Model Integration: The ChatGPT API analyzes teacher reviews to provide personalized, context-aware recommendations for students, leveraging prompt engineering for accurate and relevant outputs.
+
+## APIS USED
+
+Internal APIs:
+
+1.) Student Management APIs:
+
+* Fetch all students in a class (GET /students).
+* Add a new student (POST /students).
+
+2.) Teacher Review and Recommendation APIs:
+ 
+* Submit a teacher’s review (POST /review).
+
+3.) Generate personalized learning materials based on a review (POST /generate-material).
+Recommendation Retrieval:
+
+* Fetch stored recommendations for a student (GET /recommendations/<student_id>).
+
+External APIs:
+
+The backend integrates the ChatGPT API to power intelligent, context-aware recommendations
+
   
 User Stories
 * Student
