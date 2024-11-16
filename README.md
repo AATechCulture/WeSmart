@@ -26,11 +26,15 @@ Target Audience:
 Benefits:
 * For Students: Engaging and culturally relevant educational experiences tailored to their needs.
 * For Teachers/Mentors: Real-time tracking and actionable insights for personalized intervention.
-* Long-term goal of reducing the pipeline to incarceration by improving literacy and addressing socio-emotional needs.
+* The long-term goal is to reduce the pipeline to incarceration by improving literacy and addressing socio-emotional needs.
 ​
 ## Tech Overview 
 * Website Deployed Link: https://superb-alfajores-2729f4.netlify.app 
-**... what tech was used to bring this project to life?**
+* Frontend: We developed the website using Flutter, ensuring a seamless and responsive user interface. For authentication, we integrated Firebase, providing secure and efficient user management.
+
+* Backend: We used Django as our framework for server-side logic, data processing, and API endpoints. The backend is hosted on Heroku, ensuring scalability and reliable uptime.
+
+* AI Model Integration: For AI capabilities, we integrated the ChatGPT API to provide intelligent, context-aware interactions and recommendations.
 ​
 ​
 ### Link to Video Pitch 
