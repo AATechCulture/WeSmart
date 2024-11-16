@@ -77,35 +77,35 @@ External APIs:
 
 
 
-## Walkthrough: Using Our App
+### Walkthrough: Using Our App
   Welcome to our app! Below is a step-by-step guide to using the app for both Students and Teachers. Follow these steps to explore how tailored recommendations are generated using our AI model and how teachers can manage feedback and create personalized recommendations.
 
-# For Students
+#### For Students
 * Login as a Student
 * Open the app and navigate to the Login screen.
 * Use our test student credentials: Email: wisdom@gmail.com, Password: Wisdom
 * Click Login. After logging in, you will be able to:
 * View tailored recommendations generated specifically for you using our AI model.
 
-# For Teachers
+#### For Teachers
 * Signup as a Teacher
 * On the Signup screen, select the Teacher role.
 * Enter your details (First Name, Last Name, Email, and Password) and click Signup.
 * Once registered, you will be provided with a Class Code. This code is unique to your account and will be used by students to link to your class.
 
-# Login as a Teacher
+#### Login as a Teacher
 * Navigate to the Login screen and use our test teacher credentials: Email: jons@gmail.com, Password: Gabriella
 * Click Login. After logging in, you can:
 * View all students in your class.
 *Add feedback for students.
 * Generate recommendations based on feedback using our AI model.
   
-# Connecting Students to a Class
+#### Connecting Students to a Class
 * After signing up as a Teacher, copy your unique Class Code.
 * Share the Class Code with your students.
 * When students sign up, they will enter the Class Code to link their account to your class.
   
-# Creating Recommendations for Students
+#### Creating Recommendations for Students
 * Login as a Teacher.
 * Navigate to your Class Dashboard to see the list of students linked to your account.
 * Select a student from the list.
@@ -113,7 +113,7 @@ External APIs:
 * Click Generate Recommendations.
 * The app will generate personalized recommendations for the selected student based on the feedback and our AI model.
   
-# Test the Full Workflow
+#### Test the Full Workflow
 * To explore how the app works in its entirety:
 * Create a new Teacher account.
 * Obtain the Class Code after signing up.
