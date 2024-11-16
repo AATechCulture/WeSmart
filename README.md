@@ -52,7 +52,7 @@ User Stories
 ​
 ​
 ### Link to Video Pitch 
-**...point us to the short clip that tells us about your solution **
+* https://www.loom.com/share/e6228537c2e64ca3b5572a0a4c50eccd?sid=a36f3963-503f-49f9-b9d8-398bf017fc79
 ​
 ### Link to Demo Presentation 
 https://www.canva.com/design/DAGWme2KBKs/cNWdM29sZbwLmzfWSzY4Tw/edit
@@ -68,7 +68,7 @@ https://www.canva.com/design/DAGWme2KBKs/cNWdM29sZbwLmzfWSzY4Tw/edit
 ​
 ### Project Checklist 
 - [x] Presentation complete and linked
-- [ ] Video pitch recorded and linked
+- [x] Video pitch recorded and linked
 - [x] Code merged to main branch
 ​
 ### School Name 
