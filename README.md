@@ -59,6 +59,8 @@ External APIs:
 
 1.) The backend integrates the ChatGPT API to power intelligent, context-aware recommendations
 
+## 💻 Tech Stack:
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=for-the-badge&logo=heroku&logoColor=#00C7B7)![Flutter](https://img.shields.io/badge/flutter-%23039BE5.svg?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/dart-%23039BE5.svg?style=for-the-badge&logo=dart) ![Flask](https://img.shields.io/badge/flask-%23039BE5.svg?style=for-the-badge&logo=flask)
   
 ## User Stories
 * Student
@@ -104,5 +106,5 @@ PSU Panthers
 * Immanuella Umoren
 * Otito Udedibor
 * Kenna Agbugba
-* Kayode James-Owolabi
+* Adeoluwa James-Owolabi
 * Wilton Cartwright
