@@ -33,12 +33,10 @@ Benefits:
 ## Tech Overview 
 * Website Deployed Link: https://superb-alfajores-2729f4.netlify.app 
 * Frontend: We developed the website using Flutter, ensuring a seamless and responsive user interface. For authentication, we integrated Firebase, providing secure and efficient user management.
-
-* Backend: We used Django as our framework for server-side logic, data processing, and API endpoints. The backend is hosted on Heroku, ensuring scalability and reliable uptime.
-  (AI Model Algorithm: https://github.com/AATechCulture/WeSmart/commit/dcfc221219966aa98f1029bc0313c40d2359cd2c)
-
-* AI Model Integration: For AI capabilities, we integrated the ChatGPT API to provide intelligent, context-aware interactions and recommendations.
-
+  
+* Backend: Built with Flask, the backend handles server-side logic, processes data, and serves RESTful APIs. It is hosted on Heroku, ensuring scalability and seamless integration with Firebase Firestore for data storage.
+* AI Model Integration: The ChatGPT API analyzes teacher reviews to provide personalized, context-aware recommendations for students, leveraging prompt engineering for accurate and relevant outputs.
+  
 User Stories
 * Student
   As a student, I want to log in securely using my account credentials so that I can access personalized recommendations from the AI model.
