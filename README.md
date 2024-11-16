@@ -50,17 +50,17 @@ Internal APIs:
  
 * Submit a teacher’s review (POST /review).
 
-3.) Generate personalized learning materials based on a review (POST /generate-material).
-Recommendation Retrieval:
-
+* Generate personalized learning materials based on a review (POST /generate-material).
+  
+3.) Recommendation Retrieval:
 * Fetch stored recommendations for a student (GET /recommendations/<student_id>).
 
 External APIs:
 
-The backend integrates the ChatGPT API to power intelligent, context-aware recommendations
+1.) The backend integrates the ChatGPT API to power intelligent, context-aware recommendations
 
   
-User Stories
+## User Stories
 * Student
   As a student, I want to log in securely using my account credentials so that I can access personalized recommendations from the AI model.
   After logging in, I can view study materials and feedback specifically tailored to help me improve in my learning journey.
