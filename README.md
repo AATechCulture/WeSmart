@@ -37,6 +37,19 @@ Benefits:
 * Backend: We used Django as our framework for server-side logic, data processing, and API endpoints. The backend is hosted on Heroku, ensuring scalability and reliable uptime.
 
 * AI Model Integration: For AI capabilities, we integrated the ChatGPT API to provide intelligent, context-aware interactions and recommendations.
+
+User Stories
+* Student
+  As a student, I want to log in securely using my account credentials so that I can access personalized recommendations from the AI model.
+  After logging in, I can view study materials and feedback specifically tailored to help me improve in my learning journey.
+  Teacher
+
+* As a teacher, I want to log in securely to my dashboard to manage my class.
+  Once logged in, I can see a list of all the students in my class, access their performance data, and provide feedback to generate AI-powered recommendations for their learning.
+  
+* Mentor  
+  As a mentor, I want to log in to my dashboard to manage my mentees effectively.
+  After logging in, I can view all the mentees assigned to me, track their progress, and provide guidance to support their academic and professional growth.
 ​
 ​
 ### Link to Video Pitch 
